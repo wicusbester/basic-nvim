@@ -1,0 +1,1 @@
+/home/wicus/git/wistl/vim/wistl.vim
